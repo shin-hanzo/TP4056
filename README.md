@@ -29,14 +29,25 @@ A compact circuit for charging lithium cells with two Type-C inputs and a wired 
 <!-- + note -->
 Suitable for portable projects, controllers, and battery-powered systems that need both charging and power ⚡️
 
-
+<hr>
 
 <div align="center"> 
-  <img src="" alt="pic01" width="Auto" height="Auto" />
+  <img src="https://github.com/shin-hanzo/TP4056/blob/main/01.jpg" alt="pic01" width="200" height="Auto" />
 </div>
 
+</br>
 
+<div align="center"> 
+  <img src="https://github.com/shin-hanzo/TP4056/blob/main/02.jpg" alt="pic02" width="230" height="Auto" />
+</div>
 
+</br>
+
+<div align="center"> 
+  <img src="https://github.com/shin-hanzo/TP4056/blob/main/03.jpg" alt="pic03" width="250" height="Auto" />
+</div>
+
+<hr>
 
 <div>&nbsp;</div>
 
